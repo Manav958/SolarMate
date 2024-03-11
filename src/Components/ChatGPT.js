@@ -5,9 +5,9 @@ import './ChatGPT.css';
 
 // const configuration = new Configuration({
     
-//     apiKey: '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'
+// 
 // });
-const API_KEY = "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";
+const API_KEY = "";
 
 
 export function ChatGPT() {
