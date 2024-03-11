@@ -7,7 +7,7 @@ import './ChatGPT.css';
     
 //     apiKey: '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'
 // });
-const API_KEY = "Your Key";
+const API_KEY = "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";
 
 
 export function ChatGPT() {
