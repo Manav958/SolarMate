@@ -1,4 +1,4 @@
-SolarMate
+# SolarMate
 
 SolarMate, is a sustainable development-based information and product website dedicated to promoting renewable energy sources such as solar, wind, and hydroelectric power. In the face of current global energy challenges and resource management issues, SolarMate emphasizes the importance of sustainable development for efficient resource utilization.
 
